@@ -17,5 +17,5 @@ This is an analysis of the survey for the Barcelona City Council about the valua
 
 Link to the whole analysis: [ Power BI](https://app.powerbi.com/view?r=eyJrIjoiN2MyYWU5NDgtMjQyMi00MWFhLTgyMGEtZjYxYTNkYmFjMDE0IiwidCI6IjZiNTE0YzI5LTIzOTEtNDgzMS1iNzc0LTg0ZjM1YzQ1YmYwMSIsImMiOjh9)
 
-The database used is: [ Baròmetre de Barcelona - Primera onada 2023 - Post-Electoral](https://w10.bcn.cat/APPS/riswestudis/editEstudi.do?reqCode=inspectById&estudiid=7341&set-locale=ca_ES)
+The database used is: [ Òmnibus Municipal - Segona onada 2023](https://w10.bcn.cat/APPS/riswestudis/editEstudi.do?reqCode=inspectById&estudiid=7341&set-locale=ca_ES)
 
