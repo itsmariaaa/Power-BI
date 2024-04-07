@@ -5,4 +5,6 @@ This is an analysis of the survey conducted among the elderly of Barcelona after
 
 ![analisis](https://github.com/itsmariaaa/Power-BI/assets/165412651/7e8cd686-5a35-4355-8674-82a2fa781715)
 
-[Here] (https://app.powerbi.com/view?r=eyJrIjoiNjM1OGI1YWEtMWFiMS00MmRiLTg4MzgtOTk3ZGEyYzg0MmIzIiwidCI6IjZiNTE0YzI5LTIzOTEtNDgzMS1iNzc0LTg0ZjM1YzQ1YmYwMSIsImMiOjh9)  you can find the whole analysis 
+Link to the whole analysis: Power Bi https://app.powerbi.com/view?r=eyJrIjoiNjM1OGI1YWEtMWFiMS00MmRiLTg4MzgtOTk3ZGEyYzg0MmIzIiwidCI6IjZiNTE0YzI5LTIzOTEtNDgzMS1iNzc0LTg0ZjM1YzQ1YmYwMSIsImMiOjh9
+
+<iframe title="analisis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjM1OGI1YWEtMWFiMS00MmRiLTg4MzgtOTk3ZGEyYzg0MmIzIiwidCI6IjZiNTE0YzI5LTIzOTEtNDgzMS1iNzc0LTg0ZjM1YzQ1YmYwMSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe> 
