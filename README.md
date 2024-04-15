@@ -19,3 +19,12 @@ Link to the whole analysis: [ Power BI](https://app.powerbi.com/view?r=eyJrIjoiN
 
 The database used is: [ Òmnibus Municipal - Segona onada 2023](https://w10.bcn.cat/APPS/riswestudis/editEstudi.do?reqCode=inspectById&estudiid=7341&set-locale=ca_ES)
 
+### Survey about municipal services - 2022
+This is an analysis of the survey for the Barcelona City Council about the valuation of municipal services in Barcelona (2022)
+
+![analisis_3](https://github.com/itsmariaaa/Power-BI/assets/165412651/36d4a628-958d-4046-8aee-e1233257f5f1)
+
+Link to the whole analysis: [ Power BI](https://app.powerbi.com/view?r=eyJrIjoiODAxNzA2MWQtMjAzMi00NzkwLTg1ZTktNmYxYTEwZTA4NzYzIiwidCI6IjZiNTE0YzI5LTIzOTEtNDgzMS1iNzc0LTg0ZjM1YzQ1YmYwMSIsImMiOjh9&pageName=ReportSection)
+
+The database used is: [ Enquesta de Serveis Municipals 2022](https://w10.bcn.cat/APPS/riswestudis/editEstudi.do?reqCode=inspectById&estudiid=7001&set-locale=ca_ES)
+
